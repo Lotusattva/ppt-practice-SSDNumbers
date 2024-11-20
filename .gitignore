@@ -32,3 +32,5 @@ settings.gradle
 gradlew
 *.bat
 gradle/
+
+.vscode/
